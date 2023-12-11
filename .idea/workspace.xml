@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df986e32-0976-474f-9619-37c1a390a07a" name="Changes" comment="java-start">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CommentJava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ZM4EaJcEymNmTtHQjEuXNbdP4M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -35,6 +36,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CommentJava.executor": "Run",
     "Application.HelloJava.executor": "Run",
     "Application.HelloJava2.executor": "Run",
     "Application.Main.executor": "Run",
@@ -50,7 +52,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloJava">
+  <component name="RunManager" selected="Application.CommentJava">
+    <configuration name="CommentJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CommentJava" />
+      <module name="java-start" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloJava" />
       <module name="java-start" />
@@ -74,6 +83,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CommentJava" />
         <item itemvalue="Application.HelloJava" />
         <item itemvalue="Application.HelloJava2" />
         <item itemvalue="Application.Main" />
@@ -97,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702219613924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java-start">
+      <option name="closed" value="true" />
+      <created>1702219802422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702219802422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
