@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df986e32-0976-474f-9619-37c1a390a07a" name="Changes" comment="java-start">
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOpEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/EvenOddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ExchangeRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/If5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/MoveRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ScoreEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,9 +39,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Break.executor": "Run",
     "Application.CommentJava.executor": "Run",
     "Application.CondOp2.executor": "Run",
     "Application.CondOpEx.executor": "Run",
+    "Application.DoWhile1.executor": "Run",
     "Application.EvenOddEx.executor": "Run",
     "Application.ExchangeRateEx.executor": "Run",
     "Application.HelloJava.executor": "Run",
@@ -62,6 +59,7 @@
     "Application.Var3.executor": "Run",
     "Application.Var7.executor": "Run",
     "Application.Var8.executor": "Run",
+    "Application.While2_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
@@ -74,13 +72,39 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvenOddEx">
-    <configuration name="CondOpEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.CondOpEx" />
+  <component name="RunManager" selected="Application.Continue">
+    <configuration name="Break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Break" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.Continue" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhile1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.DoWhile1" />
+      <module name="java-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,38 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExchangeRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ExchangeRateEx" />
+    <configuration name="While2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop.While2_2" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cond.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoveRateEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.MoveRateEx" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cond.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScoreEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cond.ScoreEx" />
-      <module name="java-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cond.*" />
+          <option name="PATTERN" value="loop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Continue" />
+        <item itemvalue="Application.Break" />
+        <item itemvalue="Application.DoWhile1" />
+        <item itemvalue="Application.While2_2" />
         <item itemvalue="Application.EvenOddEx" />
-        <item itemvalue="Application.CondOpEx" />
-        <item itemvalue="Application.MoveRateEx" />
-        <item itemvalue="Application.ExchangeRateEx" />
-        <item itemvalue="Application.ScoreEx" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702563081390</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java-start">
+      <option name="closed" value="true" />
+      <created>1702820751159</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702820751159</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
