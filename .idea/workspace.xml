@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df986e32-0976-474f-9619-37c1a390a07a" name="Changes" comment="java-start">
-      <change afterPath="$PROJECT_DIR$/src/array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayDi4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayRef2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayRef3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/ArrayRef4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/EnhancedFor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/ex/ArrayEx9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +51,14 @@
     "Application.ArrayDi2.executor": "Run",
     "Application.ArrayDi3.executor": "Run",
     "Application.ArrayDi4.executor": "Run",
+    "Application.ArrayEx2.executor": "Run",
+    "Application.ArrayEx3.executor": "Run",
+    "Application.ArrayEx4.executor": "Run",
+    "Application.ArrayEx5.executor": "Run",
+    "Application.ArrayEx6.executor": "Run",
+    "Application.ArrayEx7.executor": "Run",
+    "Application.ArrayEx8.executor": "Run",
+    "Application.ArrayEx9.executor": "Run",
     "Application.ArrayRef2.executor": "Run",
     "Application.ArrayRef3.executor": "Run",
     "Application.ArrayRef4.executor": "Run",
@@ -102,18 +108,19 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="array.ex" />
       <recent name="array" />
       <recent name="scope" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EnhancedFor1">
-    <configuration name="ArrayDi1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayDi1" />
+  <component name="RunManager" selected="Application.ProductAdminEx">
+    <configuration name="ArrayEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx5" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDi2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayDi2" />
+    <configuration name="ArrayEx6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx6" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDi3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayDi3" />
+    <configuration name="ArrayEx7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx7" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayDi4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.ArrayDi4" />
+    <configuration name="ArrayEx8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ArrayEx8" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnhancedFor1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.EnhancedFor1" />
+    <configuration name="ProductAdminEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.ex.ProductAdminEx" />
       <module name="java-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +182,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnhancedFor1" />
-        <item itemvalue="Application.ArrayDi4" />
-        <item itemvalue="Application.ArrayDi3" />
-        <item itemvalue="Application.ArrayDi2" />
-        <item itemvalue="Application.ArrayDi1" />
+        <item itemvalue="Application.ProductAdminEx" />
+        <item itemvalue="Application.ArrayEx8" />
+        <item itemvalue="Application.ArrayEx7" />
+        <item itemvalue="Application.ArrayEx6" />
+        <item itemvalue="Application.ArrayEx5" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703169383181</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="java-start">
+      <option name="closed" value="true" />
+      <created>1703392911849</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1703392911849</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
